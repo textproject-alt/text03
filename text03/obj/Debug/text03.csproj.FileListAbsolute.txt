@@ -1,0 +1,8 @@
+G:\vs2008\Projects\text03\text03\obj\Debug\ResolveAssemblyReference.cache
+G:\vs2008\Projects\text03\text03\obj\Debug\text03.Form1.resources
+G:\vs2008\Projects\text03\text03\obj\Debug\text03.Properties.Resources.resources
+G:\vs2008\Projects\text03\text03\obj\Debug\text03.csproj.GenerateResource.Cache
+G:\vs2008\Projects\text03\text03\bin\Debug\text03.exe
+G:\vs2008\Projects\text03\text03\bin\Debug\text03.pdb
+G:\vs2008\Projects\text03\text03\obj\Debug\text03.exe
+G:\vs2008\Projects\text03\text03\obj\Debug\text03.pdb
